@@ -1,5 +1,4 @@
-# numpy
-# if, for, while
+#1.numpy복습
 import numpy as np
 arr1 = np.array([1,2,3,4])
 arr2 = np.zeros((2,3))
@@ -10,7 +9,7 @@ print(arr2)
 print(arr3)
 print(arr4)
 
-
+#2. if, for, while
 #배열 안에서 특정 원소를 뽑고 싶을 때
 sub1 = arr3[0]
 print(sub)
